@@ -8,8 +8,8 @@ Sudo Grow Hackathon Challenge Problems
 
 **Data Provided:** KisanHub will provide API access to these data sets and locations of where the stations have been deployed.
 
-**API Documentation:** Please visit [https://developer.kisanhub.com/](https://developer.kisanhub.com/)
+**API Documentation:** Please visit [https://developer.kisanhub.com/](https://developer.kisanhub.com/) and check API documentation under Weather Data category.  
 
 **Assistance:** 
 - One of the KisanHub team will be available to help with any questions. 
-- Send an email to sudo-challenge@kisanhub.com for requesting the token key
+- Kindly send an email to sudo.challenge@kisanhub.com to request your API token.
