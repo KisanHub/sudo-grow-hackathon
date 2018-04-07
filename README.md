@@ -22,13 +22,15 @@ Sudo Grow Hackathon Challenge Problems
 
 **Satellite Data:** 
 https://earth.esa.int/web/sentinel/user-guides/
+
 Sentinel 1: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Instrument
+
 Sentinel 2: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Instrument
 
 
 **Vegetation Index:** 
 The NDVI is calculated from these individual measurements as follows:
-{\displaystyle {\mbox{NDVI}}={\frac {({\mbox{NIR}}-{\mbox{Red}})}{({\mbox{NIR}}+{\mbox{Red}})}}} {\displaystyle {\mbox{NDVI}}={\frac {({\mbox{NIR}}-{\mbox{Red}})}{({\mbox{NIR}}+{\mbox{Red}})}}}
+
 
 
 
