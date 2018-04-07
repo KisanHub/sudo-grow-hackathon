@@ -8,7 +8,7 @@ Sudo Grow Hackathon Challenge Problems
 
 **Data Provided:** KisanHub will provide API access to these data sets and locations of where the stations have been deployed.
 
-**API Documentation:** Please visit [https://developer.kisanhub.com/](https://developer.kisanhub.com/) and check API documentation under Weather Data category.  
+**API Documentation:** Please visit [https://developer.kisanhub.com/](https://developer.kisanhub.com/) and check API documentation under Weather Data category. Weather data is available from our met micro service. For this exercise we will be making 26 weather stations available for query exposing 1 months data at 15mins interval.
 
 **Assistance:** 
 - One of the KisanHub team will be available to help with any questions. 
