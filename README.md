@@ -21,6 +21,7 @@ Sudo Grow Hackathon Challenge Problems
 **Task:** This task would involve taking RADAR data, from Sentinel1, the first in a series of EO missions by ESA, and mapping it on to vegetative indices derived from Sentinel2. The goal is to investigate whether any correlation exists between RADAR backscatter and vegetation intensity. 
 
 **Satellite Data:** 
+
 https://earth.esa.int/web/sentinel/user-guides/
 
 Sentinel 1: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Instrument
