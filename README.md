@@ -31,10 +31,12 @@ Sentinel 2: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Se
 
 **Vegetation Index:** 
 The NDVI is calculated from these individual measurements as follows:
+
 NDVI = (NearInfraRedBand — RedBand)/(NearInfraRedBand + RedBand)
 
 **Soil Moisture Index:** 
 The NDWI is calculated from these individual measurements as follows:
+
 NDWI = ( NearInfraRedBand – ShortWaveInfraRed ) / ( NearInfraRedBand + ShortWaveInfraRed )
 
 
