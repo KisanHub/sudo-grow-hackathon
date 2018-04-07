@@ -30,8 +30,7 @@ Sentinel 2: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Se
 
 **Vegetation Index:** 
 The NDVI is calculated from these individual measurements as follows:
-
-
+NDVI = (NearInfraRedBand — RedBand)/(NearInfraRedBand + RedBand)
 
 
 **Data Provided:** Access will be available to the public satellite agencies to download imagery.  
