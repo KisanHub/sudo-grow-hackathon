@@ -20,6 +20,18 @@ Sudo Grow Hackathon Challenge Problems
 
 **Task:** This task would involve taking RADAR data, from Sentinel1, the first in a series of EO missions by ESA, and mapping it on to vegetative indices derived from Sentinel2. The goal is to investigate whether any correlation exists between RADAR backscatter and vegetation intensity. 
 
+**Satellite Data:** 
+https://earth.esa.int/web/sentinel/user-guides/
+Sentinel 1: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Instrument
+Sentinel 2: https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Instrument
+
+
+**Vegetation Index:** 
+The NDVI is calculated from these individual measurements as follows:
+{\displaystyle {\mbox{NDVI}}={\frac {({\mbox{NIR}}-{\mbox{Red}})}{({\mbox{NIR}}+{\mbox{Red}})}}} {\displaystyle {\mbox{NDVI}}={\frac {({\mbox{NIR}}-{\mbox{Red}})}{({\mbox{NIR}}+{\mbox{Red}})}}}
+
+
+
 **Data Provided:** Access will be available to the public satellite agencies to download imagery.  
 
 **Assistance:** 
